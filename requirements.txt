@@ -12,11 +12,13 @@ googleads==41.0.0
 googleapis-common-protos==1.63.0
 grpcio==1.62.2
 grpcio-status==1.62.2
+gunicorn==22.0.0
 idna==3.7
 isodate==0.6.1
 lxml==5.2.1
 numpy==1.26.4
 oauthlib==3.2.2
+packaging==24.0
 platformdirs==4.2.1
 proto-plus==1.23.0
 protobuf==4.25.3
